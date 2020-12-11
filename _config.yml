@@ -21,11 +21,11 @@ enable_smart_app_banner: true # Set to true to show a smart app banner at top of
 your_name: Headdle, Inc
 your_link: https://emilbaehr.com
 your_city: San Francisco
-email_address: info@headdle.com
-facebook_username:
-instagram_username: ebaehr
-twitter_username: ebaehr
-github_username: emilbaehr
+email_address: contact@headdle.com
+facebook_username: headdlenews
+instagram_username: headdlenews
+twitter_username: headdlenews
+github_username:
 youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
